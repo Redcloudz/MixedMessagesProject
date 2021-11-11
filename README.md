@@ -1,4 +1,4 @@
-# mixedmessagesproject
+# Mixed Messages Project
 
 ## This is a Codecademy portfolio challenge
 

@@ -11,9 +11,9 @@
 ## Project Objectives
 
 + Build message generator program using JavaScript
-+ Use Git verion control
++ Use Git version control
 + Use command line
-+ Practice and develope locally on your computer
++ Practice and develop locally on your computer
 
 ## Pre-requisites
 
@@ -23,4 +23,4 @@
 
 ## About this app
 
-#### The messages that randomly appears every time you run the program is from famous people who inspired a lot of people through their works. You don't need to input anything just run the app and messages will appear
+#### The messages that randomly appear every time you run the program is from famous people who inspired a lot of people through their works. You don't need to input anything just run the app and messages will appear
